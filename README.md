@@ -26,12 +26,11 @@ An app that provides a way for movie lovers to view movies details and share the
 - **Dark Mode Design** – elegant and easy on the eyes  
 
 ---
-
 ## 📸 Preview
 
-| Sign In | Movies Center | Movie Details | Profile |
-|--------|----------------|----------------|---------|
-| ![Sign In](./Screenshot%201446-10-24%20at%2012.01.46%E2%80%AFAM.png) | ![Movie Center](./Screenshot%201446-10-24%20at%2012.01.46%E2%80%AFAM.png) | ![Details](./Screenshot%201446-10-24%20at%2012.01.46%E2%80%AFAM.png) | ![Profile](./Screenshot%201446-10-24%20at%2012.01.46%E2%80%AFAM.png) |
+Here's a glimpse of the app UI showcasing the sign-in screen, movie browsing, details view, and user profile:
+
+![App Preview](./MoviesUI.png)
 
 ---
 
